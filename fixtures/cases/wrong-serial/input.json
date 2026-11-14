@@ -1,0 +1,9 @@
+{
+  "case": "wrong-serial",
+  "id": "deny-4",
+  "marker": "wrong-serial",
+  "path": "/evil/ocspstap/4",
+  "kid": "k-active",
+  "sig": "YrMppjShqBAKhDxRKnNr48dqyjiFjKytjIddNOM1l-M",
+  "_sign_line": "v1|k-active|98351fb1ed52e2c2971854643cb5e9d0582cd02ad4e183cd29ea5dea4f1d51df"
+}

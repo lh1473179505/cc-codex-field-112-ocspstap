@@ -1,0 +1,6 @@
+{
+  "clock_skew_seconds": 60,
+  "allowed": true,
+  "notes": "policy scaffold for ocspstap; real thresholds documented in admit-rules.md",
+  "pkg": "ocspstap"
+}

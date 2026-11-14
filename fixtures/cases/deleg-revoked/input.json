@@ -1,0 +1,9 @@
+{
+  "case": "deleg-revoked",
+  "id": "deny-5",
+  "marker": "deleg-revoked",
+  "path": "/evil/ocspstap/5",
+  "kid": "k-revoked",
+  "sig": "3hAXxDpbqThJtCTH92jrveBqkPK6i1N9ip_fUWOKIus",
+  "_sign_line": "v1|k-revoked|c10917da24dd0d08176f401adeb96332f3619e1d1f6244444201b032da272506"
+}

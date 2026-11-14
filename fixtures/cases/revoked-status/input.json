@@ -1,0 +1,9 @@
+{
+  "case": "revoked-status",
+  "id": "deny-1",
+  "marker": "revoked-status",
+  "path": "/evil/ocspstap/1",
+  "kid": "k-revoked",
+  "sig": "IAUuEv96Xr0bBAA_uA010Y5J_DhljWISWDYUj4GiAo4",
+  "_sign_line": "v1|k-revoked|2d69c7f54405d9e206c81735e07652a0e3cca9793d8745775b250c710bd8fd6e"
+}

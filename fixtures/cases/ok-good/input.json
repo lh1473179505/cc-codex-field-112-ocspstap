@@ -1,0 +1,9 @@
+{
+  "case": "ok-good",
+  "id": "ok-0",
+  "marker": "allow-candidate",
+  "path": "/v1/ocspstap/0",
+  "kid": "k-active",
+  "sig": "L8AenjsR-dfLvL72CZ1f_EYlWVxwadWVEIrWLyfy6tU",
+  "_sign_line": "v1|k-active|b1e5f3d72cda00f8bfa83452d02e65ee733b1a5bb4dfb16531b00b71edaffa50"
+}

@@ -1,0 +1,9 @@
+{
+  "case": "early",
+  "id": "deny-3",
+  "marker": "early",
+  "path": "/evil/ocspstap/3",
+  "kid": "k-active",
+  "sig": "DEbM5yI2HJMTF91B8lu36nztG1Bmgl-6PGS-dEPMuhI",
+  "_sign_line": "v1|k-active|da842c1771c063e5c1a5ea375f2479685106fdc51d5a707b1a433523cdf90764"
+}

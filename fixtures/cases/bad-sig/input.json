@@ -1,0 +1,9 @@
+{
+  "case": "bad-sig",
+  "id": "deny-0",
+  "marker": "bad-sig",
+  "path": "/evil/ocspstap/0",
+  "kid": "k-active",
+  "sig": "pnAHV7vTUjPaPt6bTuCSsZTqCrfUZImsYBI4XiN7Dn8",
+  "_sign_line": "v1|k-active|cce2f052c6de08d4412eec34a35b5706923a27f4b15b44b7a03a5be2c7c413de"
+}

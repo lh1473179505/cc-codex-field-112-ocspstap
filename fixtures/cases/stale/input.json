@@ -1,0 +1,9 @@
+{
+  "case": "stale",
+  "id": "deny-2",
+  "marker": "stale",
+  "path": "/evil/ocspstap/2",
+  "kid": "k-active",
+  "sig": "_fSbjwtQOoWTNeWIrxxi6IdJMOcdNWHXTtzezCGk3KM",
+  "_sign_line": "v1|k-active|f9f3e4cbf0f91815aff914c349f8a51b3746907e92545ceb010e94411f6eff3b"
+}

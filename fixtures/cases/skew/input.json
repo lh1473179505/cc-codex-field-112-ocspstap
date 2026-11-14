@@ -1,0 +1,9 @@
+{
+  "case": "skew",
+  "id": "deny-7",
+  "marker": "skew",
+  "path": "/evil/ocspstap/7",
+  "kid": "k-active",
+  "sig": "dghKI5QaSycsz9pAGS84cDtNiLsim_5O1KeB0QbTFDw",
+  "_sign_line": "v1|k-active|934f05ef72c29915154d89742de711037b359bbb3b15866763e373de4554b2d6"
+}

@@ -1,0 +1,9 @@
+{
+  "case": "unknown-kid",
+  "id": "deny-6",
+  "marker": "unknown-kid",
+  "path": "/evil/ocspstap/6",
+  "kid": "k-active",
+  "sig": "363ODixC01LqF9bMikYpxgg-aE0pYNSbIo0E_gA2i0E",
+  "_sign_line": "v1|k-active|91e9b32489e77920cabdb3922aeaa1f2471b9f78d298df18da89142fc9e6d6aa"
+}

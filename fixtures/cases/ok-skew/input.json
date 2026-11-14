@@ -1,0 +1,9 @@
+{
+  "case": "ok-skew",
+  "id": "ok-1",
+  "marker": "allow-candidate",
+  "path": "/v1/ocspstap/1",
+  "kid": "k-active",
+  "sig": "OQCXUP4z9gBGx3nTKf_goejkbe6n0LbKpXkAduEYTjI",
+  "_sign_line": "v1|k-active|8f918ca35521b1601cbbd2dbc3ff746b4688162fc18dd6f78ace8aaa6defc52c"
+}
